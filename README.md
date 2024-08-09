@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Kankani</h1>
-<h3 align="center">I am a 4th year engineering student pursuing a B.Tech degree in Data Science. My journey in the word of data has been a thrilling adventure filled with continuous learning and development</h3>
+<h3 align="center">I am a 4th year engineering student pursuing a B.Tech degree in Data Science. My journey in the world of data has been a thrilling adventure filled with continuous learning and development</h3>
 
 <h3 align="left">Connect with me:</h3>
 
